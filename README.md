@@ -1,6 +1,6 @@
 ### **Hello World ! 👋**
 
-I'm Engineer interested in **DevOps 🔗** and **SRE Engineering 🧰** !<img src="https://little.kylerconway.com/images/golang-what.gif" width="50" >
+I'm Engineer interested in **DevOps 🔗** and **SRE Engineering 🧰** !<img src="https://little.kylerconway.com/images/golang-what.gif" width="100" >
 
 
 
