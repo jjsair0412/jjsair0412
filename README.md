@@ -17,3 +17,5 @@
     src="https://raw.githubusercontent.com/jjsair0412/jjsair0412/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<img alt="Snake eating my contributions for breakfast" src="https://raw.githubusercontent.com/jjsair0412/jjsair0412/output/github-contribution-grid-snake.svg" />
