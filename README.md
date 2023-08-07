@@ -4,7 +4,7 @@
   <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
 </picture>
 
-### I'm Engineer interested in **DevOps 🔗** and **SRE Engineering 🧰** !<img src="https://little.kylerconway.com/images/golang-what.gif" width="150" align="center">
+### I'm Engineer interested in **DevOps 🔗** and **SRE Engineering 🧰** !
 
 <picture>
   <source
