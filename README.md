@@ -4,6 +4,6 @@
   <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
 </picture>
 
-### I'm Engineer interested in **DevOps 🔗** , **SRE Engineering 🧰** , **Data Engineering 📈** , **MLOps 🤖**!
+### I'm Engineer interested in **Cloud 🤖**!
 
 
