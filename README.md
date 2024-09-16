@@ -4,6 +4,4 @@
   <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
 </picture>
 
-### I'm Engineer interested in **Cloud 🤖**!
-
-
+### I'm Engineer interested in **Cloud 🤖**, **DevOps 🏧**!
