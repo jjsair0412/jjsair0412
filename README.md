@@ -8,4 +8,4 @@
 
 📫 Contact [jjsair0412@naver.com](mailto:jjsair0412@naver.com) , [jjsair0412@gmail.com](mailto:jjsair0412@gmail.com)
 
-### I'm Engineer interested in **Cloud 🤖**, **DevOps 🏧**!
+### I'm Engineer interested in **Cloud 🤖**, **DevOps 🏧**!, Platform!
