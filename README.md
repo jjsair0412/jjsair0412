@@ -9,3 +9,8 @@
 📫 Contact [jjsair0412@naver.com](mailto:jjsair0412@naver.com) , [jjsair0412@gmail.com](mailto:jjsair0412@gmail.com)
 
 ### I'm Engineer interested in **Cloud 🤖**, **DevOps 🏧**!, Platform!
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jjsair0412?pet-id=1" width="1000" height="120"/>
+</a>
